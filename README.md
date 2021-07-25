@@ -1,0 +1,3 @@
+# Discord_5V5_BOT
+Makes 5V5 table with abillity to join teams, leave and more...
+Project for my discord server to make 5V5 games.
