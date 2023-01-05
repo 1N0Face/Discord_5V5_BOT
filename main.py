@@ -3,7 +3,7 @@ import random
 import time
 from discord_webhook import DiscordWebhook, DiscordEmbed
 
-TOKEN = 'ODY2Njk1Mjk4NTA3MDc5Njgx.YPWS5Q.WmETM9ECCAQOz825DTboAF_w60Y'
+TOKEN = 'Token is already changed :D'
 client = discord.Client()
 
 
